@@ -5,8 +5,8 @@ public class FoxAndSortingTest {
 	
 	@Test
 	public void test0() {
-		long idx = 10L;
-		assertEquals(100000000L, new FoxAndSorting().get(idx));
+		long idx = 3L;
+		assertEquals(10L, new FoxAndSorting().get(idx));
 	}
 	
 	@Test
@@ -14,7 +14,7 @@ public class FoxAndSortingTest {
 		long idx = 1000000000000000000L;
 		assertEquals(999999999999999999L, new FoxAndSorting().get(idx));
 	}
-	
+
 	@Test
 	public void test2() {
 		long idx = 58L;
