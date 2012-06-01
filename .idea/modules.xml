@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AliceBobShuffle/AliceBobShuffle.iml" filepath="$PROJECT_DIR$/AliceBobShuffle/AliceBobShuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BoardSplitting/BoardSplitting.iml" filepath="$PROJECT_DIR$/BoardSplitting/BoardSplitting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaptureFish/CaptureFish.iml" filepath="$PROJECT_DIR$/CaptureFish/CaptureFish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DengklekMakingChains/DengklekMakingChains.iml" filepath="$PROJECT_DIR$/DengklekMakingChains/DengklekMakingChains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DengklekPaintingSquares/DengklekPaintingSquares.iml" filepath="$PROJECT_DIR$/DengklekPaintingSquares/DengklekPaintingSquares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElectionFraudDiv1/ElectionFraudDiv1.iml" filepath="$PROJECT_DIR$/ElectionFraudDiv1/ElectionFraudDiv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ElectionFraudDiv2/ElectionFraudDiv2.iml" filepath="$PROJECT_DIR$/ElectionFraudDiv2/ElectionFraudDiv2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysFiveFriends/EllysFiveFriends.iml" filepath="$PROJECT_DIR$/EllysFiveFriends/EllysFiveFriends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysRivers/EllysRivers.iml" filepath="$PROJECT_DIR$/EllysRivers/EllysRivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysTSP/EllysTSP.iml" filepath="$PROJECT_DIR$/EllysTSP/EllysTSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysThreeRivers/EllysThreeRivers.iml" filepath="$PROJECT_DIR$/EllysThreeRivers/EllysThreeRivers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EllysXors/EllysXors.iml" filepath="$PROJECT_DIR$/EllysXors/EllysXors.iml" />
       <module fileurl="file://$PROJECT_DIR$/FoxAndSorting/FoxAndSorting.iml" filepath="$PROJECT_DIR$/FoxAndSorting/FoxAndSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FractionInDifferentBases/FractionInDifferentBases.iml" filepath="$PROJECT_DIR$/FractionInDifferentBases/FractionInDifferentBases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KingSort/KingSort.iml" filepath="$PROJECT_DIR$/KingSort/KingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MagicalGirl/MagicalGirl.iml" filepath="$PROJECT_DIR$/MagicalGirl/MagicalGirl.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergersDivTwo/MergersDivTwo.iml" filepath="$PROJECT_DIR$/MergersDivTwo/MergersDivTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinCostPalindrome/MinCostPalindrome.iml" filepath="$PROJECT_DIR$/MinCostPalindrome/MinCostPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NonXorLife/NonXorLife.iml" filepath="$PROJECT_DIR$/NonXorLife/NonXorLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PairingPawns/PairingPawns.iml" filepath="$PROJECT_DIR$/PairingPawns/PairingPawns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatrolRoute/PatrolRoute.iml" filepath="$PROJECT_DIR$/PatrolRoute/PatrolRoute.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrinceXToastbook/PrinceXToastbook.iml" filepath="$PROJECT_DIR$/PrinceXToastbook/PrinceXToastbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkewedPerspectives/SkewedPerspectives.iml" filepath="$PROJECT_DIR$/SkewedPerspectives/SkewedPerspectives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrangeDictionary/StrangeDictionary.iml" filepath="$PROJECT_DIR$/StrangeDictionary/StrangeDictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrangeDictionary2/StrangeDictionary2.iml" filepath="$PROJECT_DIR$/StrangeDictionary2/StrangeDictionary2.iml" />
       <module fileurl="file://$PROJECT_DIR$/topcoder.iml" filepath="$PROJECT_DIR$/topcoder.iml" />
     </modules>
   </component>
