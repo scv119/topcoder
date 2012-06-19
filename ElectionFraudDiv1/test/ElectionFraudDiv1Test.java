@@ -5,8 +5,8 @@ public class ElectionFraudDiv1Test {
 	
 	@Test
 	public void test0() {
-		int[] percentages = new int[] {33, 33, 33};
-		assertEquals(3, new ElectionFraudDiv1().MinimumVoters(percentages));
+		int[] percentages = new int[] {100};
+		assertEquals(1, new ElectionFraudDiv1().MinimumVoters(percentages));
 	}
 	
 	@Test
