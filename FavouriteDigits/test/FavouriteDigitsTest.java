@@ -3,25 +3,25 @@ import static org.junit.Assert.*;
 
 public class FavouriteDigitsTest {
 	
-	@Test
-	public void test0() {
-		long N = 47L;
-		int digit1 = 1;
-		int count1 = 0;
-		int digit2 = 2;
-		int count2 = 0;
-		assertEquals(47L, new FavouriteDigits().findNext(N, digit1, count1, digit2, count2));
-	}
-	
-	@Test
-	public void test1() {
-		long N = 47L;
-		int digit1 = 5;
-		int count1 = 0;
-		int digit2 = 9;
-		int count2 = 1;
-		assertEquals(49L, new FavouriteDigits().findNext(N, digit1, count1, digit2, count2));
-	}
+//	@Test
+//	public void test0() {
+//		long N = 47L;
+//		int digit1 = 1;
+//		int count1 = 0;
+//		int digit2 = 2;
+//		int count2 = 0;
+//		assertEquals(47L, new FavouriteDigits().findNext(N, digit1, count1, digit2, count2));
+//	}
+//
+//	@Test
+//	public void test1() {
+//		long N = 47L;
+//		int digit1 = 5;
+//		int count1 = 0;
+//		int digit2 = 9;
+//		int count2 = 1;
+//		assertEquals(49L, new FavouriteDigits().findNext(N, digit1, count1, digit2, count2));
+//	}
 	
 	@Test
 	public void test2() {

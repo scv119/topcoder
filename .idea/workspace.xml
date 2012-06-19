@@ -380,15 +380,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="KingXMagicSpells.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/KingXMagicSpells/src/KingXMagicSpells.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="56" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KleofasTail.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KleofasTail/src/KleofasTail.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -401,7 +392,16 @@
       <file leaf-file-name="FavouriteDigits.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FavouriteDigits/src/FavouriteDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="17" selection-start="143" selection-end="143" vertical-scroll-proportion="0.075187966">
+            <state line="24" column="91" selection-start="557" selection-end="557" vertical-scroll-proportion="0.7346939">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FavouriteDigitsTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FavouriteDigits/test/FavouriteDigitsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="50" selection-start="716" selection-end="716" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -480,8 +480,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/IPv444/src/IPv444.java" />
-        <option value="$PROJECT_DIR$/FlipGame/test/FlipGameTest.java" />
         <option value="$PROJECT_DIR$/FlipGame/src/FlipGame.java" />
         <option value="$PROJECT_DIR$/StrangeDictionary2/test/StrangeDictionary2Test.java" />
         <option value="$PROJECT_DIR$/StrangeDictionary2/src/StrangeDictionary2.java" />
@@ -496,6 +494,8 @@
         <option value="$PROJECT_DIR$/RandomColoring/test/RandomColoringTest.java" />
         <option value="$PROJECT_DIR$/KingXMagicSpells/src/KingXMagicSpells.java" />
         <option value="$PROJECT_DIR$/KleofasTail/src/KleofasTail.java" />
+        <option value="$PROJECT_DIR$/FavouriteDigits/test/FavouriteDigitsTest.java" />
+        <option value="$PROJECT_DIR$/FavouriteDigits/src/FavouriteDigits.java" />
       </list>
     </option>
   </component>
@@ -1788,7 +1788,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.KleofasTailTest">
+  <component name="RunManager" selected="JUnit.FavouriteDigitsTest">
     <configuration default="false" name="SafeReturnTest" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="SafeReturn" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1901,7 +1901,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -2063,7 +2069,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="968" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2073,16 +2079,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39957264" sideWeight="0.6009445" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32959402" sideWeight="0.6363636" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36363637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32959402" sideWeight="0.6363636" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36363637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2146,11 +2152,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AkariDaisukiDiv1/src/AkariDaisukiDiv1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AkariDaisukiDiv1/test/AkariDaisukiDiv1Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="65" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0" />
@@ -2221,9 +2222,16 @@
         <state line="24" column="16" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FavouriteDigits/test/FavouriteDigitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="50" selection-start="716" selection-end="716" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FavouriteDigits/src/FavouriteDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="143" selection-end="143" vertical-scroll-proportion="0.075187966">
+        <state line="24" column="91" selection-start="557" selection-end="557" vertical-scroll-proportion="0.7346939">
           <folding />
         </state>
       </provider>
