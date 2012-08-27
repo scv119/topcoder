@@ -293,7 +293,7 @@
       <file leaf-file-name="TwoConvexShapesTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TwoConvexShapes/test/TwoConvexShapesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="136" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0">
+            <state line="21" column="127" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -331,12 +331,12 @@
       <file leaf-file-name="ParkingLot.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="19" selection-start="2397" selection-end="2397" vertical-scroll-proportion="2.1517367">
+            <state line="133" column="58" selection-start="0" selection-end="4322" vertical-scroll-proportion="0.50639856">
               <folding>
-                <element signature="e#2668#2678#0" expanded="true" />
-                <element signature="e#2730#2748#0" expanded="true" />
-                <element signature="e#2800#2819#0" expanded="true" />
-                <element signature="e#2870#2888#0" expanded="true" />
+                <element signature="e#2656#2666#0" expanded="true" />
+                <element signature="e#2718#2736#0" expanded="true" />
+                <element signature="e#2788#2807#0" expanded="true" />
+                <element signature="e#2858#2876#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -397,7 +397,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/KingdomAndTrees/src/KingdomAndTrees.java" />
         <option value="$PROJECT_DIR$/EasyConversionMachine/src/EasyConversionMachine.java" />
         <option value="$PROJECT_DIR$/RotatingBot/src/RotatingBot.java" />
         <option value="$PROJECT_DIR$/RotatingBot/test/RotatingBotTest.java" />
@@ -413,6 +412,7 @@
         <option value="$PROJECT_DIR$/ColorfulChocolates/src/SpOffer.java" />
         <option value="$PROJECT_DIR$/ColorfulChocolates/src/ColorStripe.java" />
         <option value="$PROJECT_DIR$/ColorfulChocolates/src/ParkingLot.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java" />
       </list>
     </option>
   </component>
@@ -1270,13 +1270,6 @@
         <state line="24" column="16" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoConvexShapes/test/TwoConvexShapesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="136" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/KString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="48" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
@@ -1307,14 +1300,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TwoConvexShapes/test/TwoConvexShapesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="127" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="19" selection-start="2397" selection-end="2397" vertical-scroll-proportion="2.1517367">
+        <state line="133" column="58" selection-start="0" selection-end="4322" vertical-scroll-proportion="0.50639856">
           <folding>
-            <element signature="e#2668#2678#0" expanded="true" />
-            <element signature="e#2730#2748#0" expanded="true" />
-            <element signature="e#2800#2819#0" expanded="true" />
-            <element signature="e#2870#2888#0" expanded="true" />
+            <element signature="e#2656#2666#0" expanded="true" />
+            <element signature="e#2718#2736#0" expanded="true" />
+            <element signature="e#2788#2807#0" expanded="true" />
+            <element signature="e#2858#2876#0" expanded="true" />
           </folding>
         </state>
       </provider>

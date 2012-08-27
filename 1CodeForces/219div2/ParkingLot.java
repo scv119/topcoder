@@ -94,7 +94,7 @@ public class ParkingLot implements Runnable {
     }
 
 
-    PriorityQueue<Interval> pq = new PriorityQueue<Interval>();
+    TreeSet<Interval> pq = new TreeSet<Interval>();
     Map<Integer,Interval> startMap = new HashMap<Integer,Interval>();
     Map<Integer,Interval> endMap   = new HashMap<Integer, Interval>();
     Map<Integer,Integer>  carMap  = new HashMap<Integer, Integer>();
@@ -124,7 +124,8 @@ public class ParkingLot implements Runnable {
             int action = readInt();
             int car    = readInt();
             if(action == 1) {
-                Interval interval= pq.poll();
+                Interval interval= pq.first();
+                pq.remove(interval);
                 remove(interval);
                 out.println(interval.nextPlace);
                 carMap.put(car, interval.nextPlace);
