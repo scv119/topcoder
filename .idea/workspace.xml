@@ -290,35 +290,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TwoConvexShapesTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TwoConvexShapes/test/TwoConvexShapesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="127" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KString.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/KString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="48" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpOffer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/SpOffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="63" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ColorStripe.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ColorStripe.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -328,33 +299,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParkingLot.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java">
+      <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="58" selection-start="0" selection-end="4322" vertical-scroll-proportion="0.50639856">
-              <folding>
-                <element signature="e#2656#2666#0" expanded="true" />
-                <element signature="e#2718#2736#0" expanded="true" />
-                <element signature="e#2788#2807#0" expanded="true" />
-                <element signature="e#2858#2876#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriorityQueue.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/PriorityQueue.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="11" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+            <state line="29" column="58" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Double.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Double.class">
+      <file leaf-file-name="Test1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="31" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+            <state line="17" column="0" selection-start="0" selection-end="2487" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="54" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="72" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#917#928#0" expanded="true" />
+                <element signature="e#1134#1140#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test4.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="8" selection-start="738" selection-end="738" vertical-scroll-proportion="0.397351">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeSet.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/TreeSet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="23" selection-start="147" selection-end="157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -397,12 +394,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/EasyConversionMachine/src/EasyConversionMachine.java" />
-        <option value="$PROJECT_DIR$/RotatingBot/src/RotatingBot.java" />
-        <option value="$PROJECT_DIR$/RotatingBot/test/RotatingBotTest.java" />
-        <option value="$PROJECT_DIR$/ColorfulChocolates/src/ColorfulChocolates.java" />
-        <option value="$PROJECT_DIR$/ColorfulChocolates/test/ColorfulChocolatesTest.java" />
-        <option value="$PROJECT_DIR$/ColorfulWolves/src/ColorfulWolves.java" />
         <option value="$PROJECT_DIR$/FoxPaintingBalls/src/FoxPaintingBalls.java" />
         <option value="$PROJECT_DIR$/FoxAndFlowerShopDivOne/src/FoxAndFlowerShopDivOne.java" />
         <option value="$PROJECT_DIR$/Suminator/src/Suminator.java" />
@@ -413,6 +404,12 @@
         <option value="$PROJECT_DIR$/ColorfulChocolates/src/ColorStripe.java" />
         <option value="$PROJECT_DIR$/ColorfulChocolates/src/ParkingLot.java" />
         <option value="$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/136div2/ColorStripe.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/136div2/Test.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/136div2/Test2.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/136div2/Test1.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/136div2/Test3.java" />
+        <option value="$PROJECT_DIR$/1CodeForces/136div2/Test4.java" />
       </list>
     </option>
   </component>
@@ -447,6 +444,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topcoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -815,6 +822,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topcoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="topcoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1CodeForces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="136div2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -823,16 +848,6 @@
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="topcoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1143,16 +1158,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39957264" sideWeight="0.6009445" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26068377" sideWeight="0.63879955" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36120042" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36120042" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.63879955" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1216,36 +1231,29 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KingdomAndTrees/test/KingdomAndTreesTest.java">
+    <entry file="file://$PROJECT_DIR$/TwoConvexShapes/test/TwoConvexShapesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="22" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" />
+        <state line="21" column="127" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FoxAndFlowerShopDivOne/src/FoxAndFlowerShopDivOne.java">
+    <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/KString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="20" selection-start="1310" selection-end="1310" vertical-scroll-proportion="0.0" />
+        <state line="16" column="48" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Suminator/src/Suminator.java">
+    <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/SpOffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="84" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="84" column="63" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Suminator/test/SuminatorTest.java">
+    <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" />
+        <state line="126" column="41" selection-start="3541" selection-end="3541" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoConvexShapes/src/TwoConvexShapes.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/PriorityQueue.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="0" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/Stack.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" />
+        <state line="13" column="11" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Double.class">
@@ -1255,9 +1263,7 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="23" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="63" column="23" selection-start="3855" selection-end="3855" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spacetsk/test/SpacetskTest.java">
@@ -1270,52 +1276,54 @@
         <state line="24" column="16" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/KString.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/TreeSet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="48" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="5" column="23" selection-start="147" selection-end="157" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ColorStripe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="23" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0">
+        <state line="26" column="23" selection-start="827" selection-end="827" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="58" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/PriorityQueue.class">
+    <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0">
+        <state line="37" column="54" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/SpOffer.java">
+    <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="63" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0">
+        <state line="17" column="0" selection-start="0" selection-end="2487" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoConvexShapes/test/TwoConvexShapesTest.java">
+    <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="127" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1CodeForces/219div2/ParkingLot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="58" selection-start="0" selection-end="4322" vertical-scroll-proportion="0.50639856">
+        <state line="107" column="72" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#2656#2666#0" expanded="true" />
-            <element signature="e#2718#2736#0" expanded="true" />
-            <element signature="e#2788#2807#0" expanded="true" />
-            <element signature="e#2858#2876#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#917#928#0" expanded="true" />
+            <element signature="e#1134#1140#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1CodeForces/136div2/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="8" selection-start="738" selection-end="738" vertical-scroll-proportion="0.397351">
+          <folding />
         </state>
       </provider>
     </entry>
