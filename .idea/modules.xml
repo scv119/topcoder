@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ColorfulChocolates/ColorfulChocolates.iml" filepath="$PROJECT_DIR$/ColorfulChocolates/ColorfulChocolates.iml" />
       <module fileurl="file://$PROJECT_DIR$/ColorfulWolves/ColorfulWolves.iml" filepath="$PROJECT_DIR$/ColorfulWolves/ColorfulWolves.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContestWinner/ContestWinner.iml" filepath="$PROJECT_DIR$/ContestWinner/ContestWinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuttingBitString/CuttingBitString.iml" filepath="$PROJECT_DIR$/CuttingBitString/CuttingBitString.iml" />
       <module fileurl="file://$PROJECT_DIR$/DengklekMakingChains/DengklekMakingChains.iml" filepath="$PROJECT_DIR$/DengklekMakingChains/DengklekMakingChains.iml" />
       <module fileurl="file://$PROJECT_DIR$/DengklekPaintingSquares/DengklekPaintingSquares.iml" filepath="$PROJECT_DIR$/DengklekPaintingSquares/DengklekPaintingSquares.iml" />
       <module fileurl="file://$PROJECT_DIR$/EasyConversionMachine/EasyConversionMachine.iml" filepath="$PROJECT_DIR$/EasyConversionMachine/EasyConversionMachine.iml" />
@@ -37,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/KingdomAndPassword/KingdomAndPassword.iml" filepath="$PROJECT_DIR$/KingdomAndPassword/KingdomAndPassword.iml" />
       <module fileurl="file://$PROJECT_DIR$/KingdomAndTrees/KingdomAndTrees.iml" filepath="$PROJECT_DIR$/KingdomAndTrees/KingdomAndTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/KleofasTail/KleofasTail.iml" filepath="$PROJECT_DIR$/KleofasTail/KleofasTail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeftRightDigitsGame2/LeftRightDigitsGame2.iml" filepath="$PROJECT_DIR$/LeftRightDigitsGame2/LeftRightDigitsGame2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MagicalGirl/MagicalGirl.iml" filepath="$PROJECT_DIR$/MagicalGirl/MagicalGirl.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaximalTriangle/MaximalTriangle.iml" filepath="$PROJECT_DIR$/MaximalTriangle/MaximalTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergersDivOne/MergersDivOne.iml" filepath="$PROJECT_DIR$/MergersDivOne/MergersDivOne.iml" />
@@ -63,7 +65,10 @@
       <module fileurl="file://$PROJECT_DIR$/StrangeDictionary/StrangeDictionary.iml" filepath="$PROJECT_DIR$/StrangeDictionary/StrangeDictionary.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrangeDictionary2/StrangeDictionary2.iml" filepath="$PROJECT_DIR$/StrangeDictionary2/StrangeDictionary2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Suminator/Suminator.iml" filepath="$PROJECT_DIR$/Suminator/Suminator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheBrickTowerEasyDivOne/TheBrickTowerEasyDivOne.iml" filepath="$PROJECT_DIR$/TheBrickTowerEasyDivOne/TheBrickTowerEasyDivOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/TwoConvexShapes/TwoConvexShapes.iml" filepath="$PROJECT_DIR$/TwoConvexShapes/TwoConvexShapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XorBoard/XorBoard.iml" filepath="$PROJECT_DIR$/XorBoard/XorBoard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XorTravelingSalesman/XorTravelingSalesman.iml" filepath="$PROJECT_DIR$/XorTravelingSalesman/XorTravelingSalesman.iml" />
       <module fileurl="file://$PROJECT_DIR$/topcoder.iml" filepath="$PROJECT_DIR$/topcoder.iml" />
     </modules>
   </component>
